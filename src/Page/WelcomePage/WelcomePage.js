@@ -11,7 +11,7 @@ const WelcomePage = () => {
                         <button class="btn btn-primary">Get Started</button>
                     </div>
                     <div >
-                        <img src="https://placeimg.com/260/400/arch" class="max-w-sm rounded-lg shadow-2xl" />
+                        <img src="https://www.intedashboard.com/hubfs/InteDashboard_Sep2021/images/Group%203703%20(1).png" class="max-w-sm rounded-lg shadow-2xl" />
                     </div>
                 </div>
             </div>
