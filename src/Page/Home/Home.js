@@ -1,4 +1,5 @@
 import React from 'react';
+import AskedQuestion from '../AskedQuestion/AskedQuestion';
 import Banner from '../Banner/Banner';
 import Featured from '../Featured/Featured';
 import GetStarted from '../GetStarted/GetStarted';
@@ -13,6 +14,7 @@ const Home = () => {
             <WelcomePage></WelcomePage>
             <Featured></Featured>
             <GetStarted></GetStarted>
+            <AskedQuestion></AskedQuestion>
         </div>
     );
 };
