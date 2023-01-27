@@ -1,3 +1,14 @@
+Some importance of the project:
+* This projects just for demo projects it's not production projects
+* It's concept for a educational website landing page
+* More components will added within some working days
+* Projects hosting on Netlify
+# Live site Link ...https://gentle-tanuki-952e0c.netlify.app/
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
