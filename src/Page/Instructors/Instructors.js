@@ -3,6 +3,7 @@ import teacher1 from '../../image/tea-1.png';
 import teacher2 from '../../image/tea-2.jpg';
 import teacher3 from '../../image/tea-3.png';
 import teacher4 from '../../image/tea-4.png';
+import './Instructors.css';
 
 const Instructors = () => {
     return (
@@ -15,8 +16,8 @@ const Instructors = () => {
                             <img h-40 src={teacher3} alt="Shoes" class="rounded-xl" />
                         </figure>
                         <div class="card-body  text-start">
-                            <h2 class="card-title">Imran Ahmed</h2>
-                            <p>If a dog chews shoes whose shoes does he choose?</p>
+                            <h2 class="card-title ">Imran Ahmed</h2>
+                            <p>MERN Stack Developer</p>
 
                         </div>
                     </div>
@@ -28,7 +29,7 @@ const Instructors = () => {
                         </figure>
                         <div class="card-body  text-start">
                             <h2 class="card-title">Mohammad Abdullah</h2>
-                            <p>If a dog chews shoes whose shoes does he choose?</p>
+                            <p>Front End Developer</p>
 
                         </div>
                     </div>
@@ -40,7 +41,7 @@ const Instructors = () => {
                         </figure>
                         <div class="card-body  text-start">
                             <h2 class="card-title">Mohammad Noman</h2>
-                            <p>If a dog chews shoes whose shoes does he choose?</p>
+                            <p>Back End Developer</p>
 
                         </div>
                     </div>
@@ -52,7 +53,7 @@ const Instructors = () => {
                         </figure>
                         <div class="card-body  text-start">
                             <h2 class="card-title">Mohammad Kahid</h2>
-                            <p>If a dog chews shoes whose shoes does he choose?</p>
+                            <p>Full Stack Developer</p>
 
                         </div>
                     </div>
