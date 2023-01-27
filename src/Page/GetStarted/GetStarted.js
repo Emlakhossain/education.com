@@ -8,7 +8,7 @@ const GetStarted = () => {
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum rem repellendus nesciunt nemo eveniet? Enim impedit odit cumque quae consequatur.</p>
             </div>
             <div>
-                <label for="my-modal-3" class="btn btn-warning rounded-full my-10 w-48">Get Start</label>
+                <label for="my-modal-3" class="btn btn-warning rounded-full w-48 hover:font-bold hover:text-white transition duration-1000 ease-in-out hover:bg-sky-700 border-0 my-10">Get Start</label>
                 <input type="checkbox" id="my-modal-3" class="modal-toggle" />
                 <div class="modal">
                     <div class="modal-box relative">

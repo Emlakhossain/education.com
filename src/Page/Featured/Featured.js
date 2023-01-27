@@ -53,6 +53,7 @@ const Featured = () => {
                             <button class="btn btn-primary">Buy Now</button>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
